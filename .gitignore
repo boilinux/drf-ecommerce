@@ -1,0 +1,12 @@
+*/migrations
+*/__pycache__
+*/*/__pycache__
+db.sqlite3
+.well-known
+tmp
+public
+passenger_wsgi.py
+.htaccess
+cgi-bin
+files
+*/settings.py
